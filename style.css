@@ -4,12 +4,12 @@
 /* Definindo as cores principais como variáveis CSS */
 :root {
     --white: #fff;
-    --dark1: #1c1c1c; /* Cor de fundo principal */
+    --dark1: #dbcdcdbd; /* Cor de fundo principal */
     --dark2: #ebd1e4; /* Cor de seções */
     --dark3: #f3ecf3; /* Cor clara (pode alterar para contraste) */
     --dark4: #fff; /* Alternativa de cor clara */
-    --dark5: #e7b0de; /* Cor de destaque */
-    --cyan1: #ebc7eb; /* Outra cor de destaque */
+    --dark5: #d49ccb; /* Cor de destaque */
+    --cyan1: #ebabeb; /* Outra cor de destaque */
 }
 
 /* Resetando margens e preenchimentos padrão */
